@@ -1,6 +1,6 @@
 # AutoPageRefresher
 A basic tool that will auto refresh your website or any website each an every 800ms
-![IMAGE]([URL](Screenshot From 2024-11-13 12-21-46.png)
+![IMAGE](Screenshot From 2024-11-13 12-21-46.png)
 
 # NOTE
 this is made for educational purpose
